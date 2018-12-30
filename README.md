@@ -1,7 +1,7 @@
 # php-Libray-App
 login/registration/Reserveation/admin
 
-Library Applicatio:
+Library Application:
 
 admin section contains different site asthetics,
 all kept within the admin folder.
